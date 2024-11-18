@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">EmpowerWorkoutApp</string>
+
+    <!-- Login Activity Strings -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="login_error">Invalid email or password. Please try again.</string>
+
+    <!-- SignUp Activity Strings -->
+    <string name="signup_title">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup_error">Failed to sign up. Please try again.</string>
+
+    <!-- Home Fragment Buttons -->
+    <string name="full_week_workout_plan">Full Week Gym Workout Plan</string>
+    <string name="diet_meal_plan">Diet Meal Plan</string>
+
+    <!-- Diet and Workout Plan Titles -->
+    <string name="diet_plan_title">Diet Meal Plan</string>
+    <string name="workout_plan_title">Full Week Workout Plan</string>
+
+    <!-- Workout Plan Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Workout Types -->
+    <string name="chest_triceps">Chest + Triceps</string>
+    <string name="back_biceps_abs">Back + Biceps + Abs</string>
+    <string name="shoulder_legs">Shoulder + Legs</string>
+    <string name="rest_day">Rest Day</string>
+
+    <!-- Diet Plan Items -->
+    <string name="morning_run">Morning: 3km Run</string>
+    <string name="meditation">Meditation: 30 mins</string>
+    <string name="breakfast">Breakfast: Milk Shake and Protein Food</string>
+    <string name="lunch">Lunch: Rice (1/4 cup uncooked)</string>
+    <string name="evening_protein">Evening: Protein Food (banana, apple, eggs, etc.)</string>
+
+    <!-- General Labels -->
+    <string name="day">Day</string>
+    <string name="workout">Workout</string>
+    <string name="workout_image">Workout Image</string>
+
+    <!-- Error Messages -->
+    <string name="error_loading_plan">Error loading plan. Please try again.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
